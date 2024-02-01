@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\user\\Desktop\\Competion file\\image processing\\Tensorflow\\models\\research\\object_detection",
+  "password": false,
+  "pid": 9680,
+  "port": 8888,
+  "secure": false,
+  "token": "193ccda00b2ee6082d3ee585199aa586b3b6ed10434edba9",
+  "url": "http://localhost:8888/"
+}

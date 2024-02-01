@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\user\\Desktop\\Tensorflow\\models",
+  "password": false,
+  "pid": 11372,
+  "port": 8888,
+  "secure": false,
+  "token": "820649056f9598d102f319f7911549cac6df24bdaaebe0c3",
+  "url": "http://localhost:8888/"
+}
